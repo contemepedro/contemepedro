@@ -1,4 +1,4 @@
-email: pedrocontearaujo@gmail.com 
+email: pedrocontearaujo@gmail.com <br />
 linkedin: inkedin.com/in/pedro-henrique-conte-de-araujo-3153a8207
 
 <!---
